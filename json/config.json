@@ -1,0 +1,7 @@
+{
+  "decorate": "json/decorate.json",
+  "category": "json/category.json",
+  "daily_picks": "json/daily_picks.json",
+  "category_item": "json/category/%s.json",
+  "colors": "json/colors.json"
+}
