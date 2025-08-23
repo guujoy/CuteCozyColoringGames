@@ -4,8 +4,8 @@
   "data": {
     "list": [
       {
-        "id": "00",
-        "preview": "colors/00.png",
+        "id": "01",
+        "preview": "colors/01.png",
         "list": [
           {
             "id": "FCCFCA",
@@ -66,8 +66,8 @@
         ]
       },
       {
-        "id": "01",
-        "preview": "colors/01.png",
+        "id": "02",
+        "preview": "colors/02.png",
         "list": [
           {
             "id": "FF5584",
@@ -124,8 +124,8 @@
         ]
       },
       {
-        "id": "02",
-        "preview": "colors/02.png",
+        "id": "03",
+        "preview": "colors/03.png",
         "list": [
           {
             "id": "FEF073",
@@ -186,8 +186,8 @@
         ]
       },
       {
-        "id": "03",
-        "preview": "colors/03.png",
+        "id": "04",
+        "preview": "colors/04.png",
         "list": [
           {
             "id": "FEA69C",
@@ -248,8 +248,8 @@
         ]
       },
       {
-        "id": "04",
-        "preview": "colors/04.png",
+        "id": "05",
+        "preview": "colors/05.png",
         "list": [
           {
             "id": "81EFF0",
@@ -310,8 +310,8 @@
         ]
       },
       {
-        "id": "05",
-        "preview": "colors/05.png",
+        "id": "06",
+        "preview": "colors/06.png",
         "list": [
           {
             "id": "C2DF47",
