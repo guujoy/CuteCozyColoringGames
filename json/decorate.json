@@ -1,0 +1,38 @@
+{
+  "list": [
+    {
+      "id": "0",
+      "cover": "decorate/0-cover.png",
+      "url": "decorate/0.webp",
+      "isClear": true
+    },
+    {
+      "id": "1",
+      "cover": "decorate/1-cover.png",
+      "url": "decorate/1.webp"
+    },
+    {
+      "id": "2",
+      "cover": "decorate/2-cover.png",
+      "url": "decorate/2.webp"
+    },
+    {
+      "id": "3",
+      "cover": "decorate/3-cover.png",
+      "url": "decorate/3.webp",
+      "reward": 1
+    },
+    {
+      "id": "4",
+      "cover": "decorate/4-cover.png",
+      "url": "decorate/4.webp",
+      "reward": 1
+    },
+    {
+      "id": "5",
+      "cover": "decorate/5-cover.png",
+      "url": "decorate/5.webp",
+      "reward": 1
+    }
+  ]
+}
