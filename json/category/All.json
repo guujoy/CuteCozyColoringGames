@@ -1,10 +1,5 @@
 [
   {
-    "id": "Labubu_57",
-    "preview": "game/Labubu/57.png",
-    "download": "game/Labubu/57.zip"
-  },
-  {
     "id": "Labubu_58",
     "preview": "game/Labubu/58.png",
     "download": "game/Labubu/58.zip"
@@ -298,5 +293,10 @@
     "id": "Animal_56",
     "preview": "game/Animal/56.png",
     "download": "game/Animal/56.zip"
+  },
+  {
+    "id": "Labubu_57",
+    "preview": "game/Labubu/57.png",
+    "download": "game/Labubu/57.zip"
   }
 ]
