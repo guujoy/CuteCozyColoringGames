@@ -1,8 +1,38 @@
 [
   {
+    "id": "Labubu_18",
+    "preview": "game/Labubu/18.png",
+    "download": "game/Labubu/18.zip"
+  },
+  {
+    "id": "Labubu_61",
+    "preview": "game/Labubu/61.png",
+    "download": "game/Labubu/61.zip",
+    "reward": 1
+  },
+  {
+    "id": "Labubu_62",
+    "preview": "game/Labubu/62.png",
+    "download": "game/Labubu/62.zip",
+    "reward": 1
+  },
+  {
+    "id": "Labubu_63",
+    "preview": "game/Labubu/63.png",
+    "download": "game/Labubu/63.zip",
+    "reward": 1
+  },
+  {
+    "id": "Labubu_64",
+    "preview": "game/Labubu/64.png",
+    "download": "game/Labubu/64.zip",
+    "reward": 1
+  },
+  {
     "id": "Labubu_58",
     "preview": "game/Labubu/58.png",
-    "download": "game/Labubu/58.zip"
+    "download": "game/Labubu/58.zip",
+    "reward": 1
   },
   {
     "id": "Labubu_59",
@@ -116,12 +146,6 @@
     "id": "Labubu_17",
     "preview": "game/Labubu/17.png",
     "download": "game/Labubu/17.zip",
-    "reward": 1
-  },
-  {
-    "id": "Labubu_18",
-    "preview": "game/Labubu/18.png",
-    "download": "game/Labubu/18.zip",
     "reward": 1
   },
   {
