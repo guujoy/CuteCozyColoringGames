@@ -370,6 +370,368 @@
             "color": "#018FA7"
           }
         ]
+      },
+      {
+        "id": "07",
+        "preview": "colors/07.png",
+        "list": [
+          {
+            "id": "EED8FE",
+            "color": "#EED8FE"
+          },
+          {
+            "id": "E4C0FF",
+            "color": "#E4C0FF"
+          },
+          {
+            "id": "E0ACFF",
+            "color": "#E0ACFF"
+          },
+          {
+            "id": "D895FE",
+            "color": "#D895FE"
+          },
+          {
+            "id": "C86FFF",
+            "color": "#C86FFF"
+          },
+          {
+            "id": "C35EFF",
+            "color": "#C35EFF"
+          },
+          {
+            "id": "B63BFF",
+            "color": "#B63BFF"
+          },
+          {
+            "id": "AD24FD",
+            "color": "#AD24FD"
+          },
+          {
+            "id": "9209E2",
+            "color": "#9209E2"
+          },
+          {
+            "id": "CA0CEC",
+            "color": "#CA0CEC"
+          },
+          {
+            "id": "9300AE",
+            "color": "#9300AE"
+          },
+          {
+            "id": "800297",
+            "color": "#800297"
+          },
+          {
+            "id": "5C006D",
+            "color": "#5C006D"
+          },
+          {
+            "id": "370041",
+            "color": "#370041"
+          }
+        ]
+      },
+      {
+        "id": "08",
+        "preview": "colors/08.png",
+        "list": [
+          {
+            "id": "55CCED",
+            "color": "#55CCED"
+          },
+          {
+            "id": "3DBA1E",
+            "color": "#3DBA1E"
+          },
+          {
+            "id": "FCE307",
+            "color": "#FCE307"
+          },
+          {
+            "id": "F2A61E",
+            "color": "#F2A61E"
+          },
+          {
+            "id": "F1442B",
+            "color": "#F1442B"
+          },
+          {
+            "id": "F75392",
+            "color": "#F75392"
+          },
+          {
+            "id": "7C3EE2",
+            "color": "#7C3EE2"
+          },
+          {
+            "id": "328ED7",
+            "color": "#328ED7"
+          },
+          {
+            "id": "43D672",
+            "color": "#43D672"
+          },
+          {
+            "id": "C27BFD",
+            "color": "#C27BFD"
+          },
+          {
+            "id": "FB9D00",
+            "color": "#FB9D00"
+          }
+        ]
+      },
+      {
+        "id": "09",
+        "preview": "colors/09.png",
+        "list": [
+          {
+            "id": "93E3FF",
+            "color": "#93E3FF"
+          },
+          {
+            "id": "3DC6FF",
+            "color": "#3DC6FF"
+          },
+          {
+            "id": "3A69FF",
+            "color": "#3A69FF"
+          },
+          {
+            "id": "8FAAFF",
+            "color": "#8FAAFF"
+          },
+          {
+            "id": "FDADF8",
+            "color": "#FDADF8"
+          },
+          {
+            "id": "BAFE8D",
+            "color": "#BAFE8D"
+          },
+          {
+            "id": "93E05E",
+            "color": "#93E05E"
+          },
+          {
+            "id": "F930A8",
+            "color": "#F930A8"
+          },
+          {
+            "id": "F93156",
+            "color": "#F93156"
+          },
+          {
+            "id": "F07BE7",
+            "color": "#F07BE7"
+          },
+          {
+            "id": "C57A00",
+            "color": "#C57A00"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "preview": "colors/10.png",
+        "list": [
+          {
+            "id": "FEEBE8",
+            "color": "#FEEBE8"
+          },
+          {
+            "id": "EBE0E5",
+            "color": "#EBE0E5"
+          },
+          {
+            "id": "F6B4C1",
+            "color": "#F6B4C1"
+          },
+          {
+            "id": "F87F96",
+            "color": "#F87F96"
+          },
+          {
+            "id": "E4546F",
+            "color": "#E4546F"
+          },
+          {
+            "id": "BBE9E6",
+            "color": "#BBE9E6"
+          },
+          {
+            "id": "9BC4BE",
+            "color": "#9BC4BE"
+          },
+          {
+            "id": "5DA8A0",
+            "color": "#5DA8A0"
+          },
+          {
+            "id": "40B0DC",
+            "color": "#40B0DC"
+          },
+          {
+            "id": "364E7F",
+            "color": "#364E7F"
+          },
+          {
+            "id": "6BC8EF",
+            "color": "#6BC8EF"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "preview": "colors/11.png",
+        "list": [
+          {
+            "id": "CEFFF0",
+            "color": "#CEFFF0"
+          },
+          {
+            "id": "A4CCE2",
+            "color": "#A4CCE2"
+          },
+          {
+            "id": "5F5972",
+            "color": "#5F5972"
+          },
+          {
+            "id": "90FFB3",
+            "color": "#90FFB3"
+          },
+          {
+            "id": "6ADC8D",
+            "color": "#6ADC8D"
+          },
+          {
+            "id": "FF8204",
+            "color": "#FF8204"
+          },
+          {
+            "id": "FEDB02",
+            "color": "#FEDB02"
+          },
+          {
+            "id": "FFA92E",
+            "color": "#FFA92E"
+          },
+          {
+            "id": "01ADFF",
+            "color": "#01ADFF"
+          },
+          {
+            "id": "8A6ADF",
+            "color": "#8A6ADF"
+          },
+          {
+            "id": "E2CC41",
+            "color": "#E2CC41"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "preview": "colors/12.png",
+        "list": [
+          {
+            "id": "CED8DB",
+            "color": "#CED8DB"
+          },
+          {
+            "id": "B0BEC5",
+            "color": "#B0BEC5"
+          },
+          {
+            "id": "8FA1AC",
+            "color": "#8FA1AC"
+          },
+          {
+            "id": "758D99",
+            "color": "#758D99"
+          },
+          {
+            "id": "516B76",
+            "color": "#516B76"
+          },
+          {
+            "id": "435A64",
+            "color": "#435A64"
+          },
+          {
+            "id": "B3C9D1",
+            "color": "#B3C9D1"
+          },
+          {
+            "id": "74A2B9",
+            "color": "#74A2B9"
+          },
+          {
+            "id": "4B88A9",
+            "color": "#4B88A9"
+          },
+          {
+            "id": "116992",
+            "color": "#116992"
+          },
+          {
+            "id": "36464F",
+            "color": "#36464F"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "preview": "colors/13.png",
+        "list": [
+          {
+            "id": "FFFFFF",
+            "color": "#FFFFFF"
+          },
+          {
+            "id": "EBEBEB",
+            "color": "#EBEBEB"
+          },
+          {
+            "id": "CECECE",
+            "color": "#CECECE"
+          },
+          {
+            "id": "B3B3B3",
+            "color": "#B3B3B3"
+          },
+          {
+            "id": "A2A2A2",
+            "color": "#A2A2A2"
+          },
+          {
+            "id": "888888",
+            "color": "#888888"
+          },
+          {
+            "id": "767676",
+            "color": "#767676"
+          },
+          {
+            "id": "676767",
+            "color": "#676767"
+          },
+          {
+            "id": "474747",
+            "color": "#474747"
+          },
+          {
+            "id": "2C2C2C",
+            "color": "#2C2C2C"
+          },
+          {
+            "id": "000000",
+            "color": "#000000"
+          }
+        ]
       }
     ]
   }
