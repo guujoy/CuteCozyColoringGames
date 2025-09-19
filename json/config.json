@@ -5,7 +5,7 @@
   "category_item": "json/category/%s.json",
   "colors": "json/colors.json",
   "nativeRefreshTime": 60000,
-  "resumeAdTime": 30000,
+  "resumeAdTime": 60000,
   "adInfo": {
     "homeBanner": "ca-app-pub-3940256099942544/6300978111",
     "detailBanner": "ca-app-pub-3940256099942544/6300978111",
