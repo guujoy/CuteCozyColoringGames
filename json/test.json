@@ -1,0 +1,15 @@
+{
+  "decorate": "json/decorate.json",
+  "category": "json/category_20250921/category.json",
+  "daily_picks": "json/daily_picks.json",
+  "category_item": "json/category_20250921/%s.json",
+  "colors": "json/colors.json",
+  "nativeRefreshTime": 60000,
+  "resumeAdTime": 60000,
+  "adInfo": {
+    "homeBanner": "ca-app-pub-3940256099942544/6300978111",
+    "detailBanner": "ca-app-pub-3940256099942544/6300978111",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712"
+  }
+}
