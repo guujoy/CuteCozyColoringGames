@@ -6,6 +6,7 @@
   "colors": "json/colors.json",
   "nativeRefreshTime": 60000,
   "resumeAdTime": 60000,
+  "productId": "unlock_ad",
   "adInfo": {
     "homeBanner": "ca-app-pub-3940256099942544/6300978111",
     "detailBanner": "ca-app-pub-3940256099942544/6300978111",
