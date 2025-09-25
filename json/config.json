@@ -1,8 +1,8 @@
 {
   "decorate": "json/decorate.json",
-  "category": "json/category_20250921/category.json",
+  "category": "json/category_20250922/category.json",
   "daily_picks": "json/daily_picks.json",
-  "category_item": "json/category_20250921/%s.json",
+  "category_item": "json/category_20250922/%s.json",
   "colors": "json/colors.json",
   "nativeRefreshTime": 60000,
   "resumeAdTime": 60000,
